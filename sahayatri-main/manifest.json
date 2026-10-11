@@ -1,0 +1,21 @@
+{
+  "short_name": "SAHAYATRI",
+  "name": "SAHAYATRI – Smart Tourism Safety & Travel Companion",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/images/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "background_color": "#2563EB",
+  "theme_color": "#2563EB",
+  "display": "standalone",
+  "orientation": "portrait"
+}
